@@ -9,6 +9,8 @@ https://github.com/georgemuriithi/investment-portfolio-optim
 
 I create an investment portfolio of stocks using LSTM and XGBoost stock returns predictions and optimizing portfolio weights. The performance of this portfolio is better compared to an equally weighted portfolio.
 
+![image](https://user-images.githubusercontent.com/69723856/226716090-2f2d7e85-3cca-418c-9c66-5507f7c18213.png)
+
 ![Performance](https://user-images.githubusercontent.com/69723856/226715865-3aa25c2c-bb8f-433e-90a8-a9850aa46dc1.png)
 
 ***Disclaimer:** The LSTM or XGBoost models cannot be used to predict stock returns in real life and this project cannot help you make investment decisions in the stock market. The stock market is highly unpredictable, therefore, prediction models do not work. In this project, the validation phase is used for analysis. The purpose of this project is to implement **Univariate Time-Series Prediction using LSTM & XGBoost.***
